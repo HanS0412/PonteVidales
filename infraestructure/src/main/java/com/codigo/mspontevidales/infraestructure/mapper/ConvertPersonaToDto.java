@@ -1,8 +1,6 @@
 package com.codigo.mspontevidales.infraestructure.mapper;
 
-import com.codigo.mspontevidales.domain.aggregates.dto.EmpresaDto;
 import com.codigo.mspontevidales.domain.aggregates.dto.PersonaDto;
-import com.codigo.mspontevidales.infraestructure.entity.Empresa;
 import com.codigo.mspontevidales.infraestructure.entity.Persona;
 
 import java.util.List;
